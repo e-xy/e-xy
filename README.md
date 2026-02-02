@@ -1,6 +1,6 @@
 # TL;DR About Me
 
-<h3>Professional at over-engineering a problem into a multi-step, multi-month project. All my stuff basically runs on Valve time to cope with OCD.</h3>
+<h3>Professional at over-engineering problems into multi-step, multi-month projects. All my stuff basically runs on Valve time to cope with OCD.</h3>
 
 # Languages & Stuff By Smart People I ~~Abuse~~ Use
 
