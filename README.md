@@ -1,4 +1,4 @@
-# TL;DR About Me
+# About Me
 
 <h3>Professional at over-engineering problems into multi-step, multi-month projects. All my stuff basically runs on Valve time as a coping mechanism.</h3>
 
