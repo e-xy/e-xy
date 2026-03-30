@@ -15,7 +15,3 @@ alias lss="ls | xargs du -sh"                   # ls w/ stroage info
 alias lssf="ls | xargs du -sh | rg"             # pipes lss into ripgrep
 alias rlss="du -ah . | sort -hr | head -n 10"   # hidden files
 ```
-
-# Fun Fact
-
-<h3>If I use GenAI on something...it means I don't care about said thing.</h3>
