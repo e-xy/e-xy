@@ -14,4 +14,5 @@ alias fucking="sudo"                            # same thing :p
 alias lss="ls | xargs du -sh"                   # ls w/ stroage info
 alias lssf="ls | xargs du -sh | rg"             # pipes lss into ripgrep
 alias rlss="du -ah . | sort -hr | head -n 10"   # hidden files
+# or just be a normal person and install eza XD. Renders all of this useless...
 ```
