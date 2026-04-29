@@ -1,6 +1,6 @@
 # About Me
 
-Professional at over-complicating problems into multi-step, multi-month projects. All my stuff runs on Valve® time as a coping mechanism.
+Skid larping as a programmer. A Pro at over-complicating problems into multi-step, multi-month projects. All my stuff runs on Valve® time as a coping mechanism.
 
 # Stuff I ~~Abuse~~ Use
 
